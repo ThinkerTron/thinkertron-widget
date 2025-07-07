@@ -10,6 +10,12 @@ The widget mounts itself dynamically to the document body and renders independen
 
 In short, `thinkertron.js` is safe to drop in, robustly sandboxed, and deliberately non-intrusive by design.
 
+Versions are planned, but for now, please use the latest release:
+
+```
+https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js
+```
+
 Full documentation can be found on the [ThinkerTron.com](https://www.thinkertron.com/docs) website.
 
 ---
