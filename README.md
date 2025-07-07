@@ -13,9 +13,7 @@ In short, `thinkertron.js` is safe to drop in, robustly sandboxed, and deliberat
 **Versions are planned, but for now, please use the latest release:**
 
 ```
-<script 
-    src="https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js" defer>
-</script>
+<script src="https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js" defer></script>
 ```
 
 Full documentation can be found on the [ThinkerTron.com](https://www.thinkertron.com/docs) website.
