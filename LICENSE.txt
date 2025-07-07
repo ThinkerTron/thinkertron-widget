@@ -4,5 +4,5 @@ ThinkerTron Widget (c) 2025 ThinkerTron.com
 This JavaScript is proprietary. Redistribution or modification is prohibited.
 Use requires an active license or agreement with ThinkerTron.com
 
-See: https://thinkertron.com/terms
+See: https://www.thinkertron.com/terms
 Contact: hello@thinkertron.com

@@ -1,6 +1,6 @@
 # Official ThinkerTron Widget
 
-**ThinkerTron requires an active paid subscription from [ThinkerTron.com](https://thinkertron.com)**
+**ThinkerTron requires an active paid subscription from [ThinkerTron.com](https://www.thinkertron.com)**
 
 The ThinkerTron JavaScript widget is a compact (\~6KB gzipped) client-side module engineered for maximum compatibility and strict isolation. It is implemented as a self-invoking function (IIFE), encapsulating all logic and variables to avoid any leakage into the global namespace. This ensures that ThinkerTron does not interfere with existing JavaScript variables, functions, or DOM elements on your site.
 
@@ -10,6 +10,6 @@ The widget mounts itself dynamically to the document body and renders independen
 
 In short, `thinkertron.js` is safe to drop in, robustly sandboxed, and deliberately non-intrusive by design.
 
-Full documentation can be found on the [ThinkerTron.com website](https://thinkertron.com/docs).
+Full documentation can be found on the [ThinkerTron.com website](https://www.thinkertron.com/docs).
 
 ---
