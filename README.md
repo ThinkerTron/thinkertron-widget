@@ -16,6 +16,13 @@ In short, `thinkertron.js` is safe to drop in, robustly sandboxed, and deliberat
 <script src="https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js" defer></script>
 ```
 
+Or, with minimal branding:
+
+```
+<script>window.ThinkerTronConfig = {PRIMARY_COLOR: '#596ff0'};</script>
+<script src="https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js" defer></script>
+```
+
 Full documentation can be found on the [ThinkerTron.com](https://www.thinkertron.com/docs) website.
 
 ---
