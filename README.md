@@ -1,8 +1,8 @@
 # Official ThinkerTron Widget
 
-**ThinkerTron requires an active paid subscription from [ThinkerTron.com](https://www.thinkertron.com)**
+**ThinkerTron requires an active paid subscription from [www.ThinkerTron.com](https://www.thinkertron.com)**
 
-The ThinkerTron JavaScript widget is a compact (\~6KB gzipped) client-side module engineered for maximum compatibility and strict isolation. It is implemented as a self-invoking function (IIFE), encapsulating all logic and variables to avoid any leakage into the global namespace. This ensures that ThinkerTron does not interfere with existing JavaScript variables, functions, or DOM elements on your site.
+The ThinkerTron JavaScript widget is a compact (~7KB) client-side module engineered for maximum compatibility and strict isolation. It is implemented as a self-invoking function (IIFE), encapsulating all logic and variables to avoid any leakage into the global namespace. This ensures that ThinkerTron does not interfere with existing JavaScript variables, functions, or DOM elements on your site.
 
 All DOM elements created by ThinkerTron are uniquely prefixed to avoid collisions. It has no external dependencies and is written entirely in vanilla JavaScript. To mitigate XSS risks all user-generated content is fully sanitized server-side and inserted using `textContent` on the client.
 
@@ -23,6 +23,6 @@ Or, with minimal branding:
 <script src="https://cdn.jsdelivr.net/gh/ThinkerTron/thinkertron-widget@master/thinkertron.min.js" defer></script>
 ```
 
-Full documentation can be found on the [ThinkerTron.com](https://www.thinkertron.com/docs) website.
+Full documentation can be found on the [www.ThinkerTron.com](https://www.thinkertron.com/docs) website.
 
 ---
